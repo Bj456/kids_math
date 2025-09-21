@@ -1,58 +1,60 @@
-## Kids Math Web App
+# Kids Math App
 
-Kids math web app is can generate math quizzes based on user choice of operands (for example - addition, subtraction, division, multiplication, random), number of questions, and language.
+A simple and fun web application for kids to practice basic math operations like **Addition, Subtraction, Multiplication, and Division**. 🎉  
 
-![alt Kids Math Demo](screenshots/kids_math.png)
+This app is lightweight, mobile-friendly, and perfect for young learners to improve their math skills interactively.
 
-### Demo
-- The app can be accessed from: [https://arshovon.com/apps/kids/](https://arshovon.com/apps/kids/)
+---
 
-![alt Kids Math Demo Bangla](screenshots/kids_math_celebration_bangla.png)
+## ✨ Features
+- Random math quiz generator  
+- Supports addition, subtraction, multiplication, and division  
+- Adjustable number range for operands  
+- Choose number of questions  
+- Auto-check answers with instant feedback  
+- Celebration animation when all answers are correct 🎊  
+- Works on mobile and desktop  
 
-![alt Kids Math Demo Bangla](screenshots/kids_math_mobile.png)
+---
 
+## 🚀 Live Demo
+You can easily deploy this app on **Netlify**, **Vercel**, or any static hosting service.  
 
-### Features
-- Math quiz generator for two operands and an operator.
-- Quiz can be generated for both Bangla and English language.
-- Maximum number for both operands can be controlled.
-- Multiple types of operators can be chosen.
-- Display total number of correct and wrong answers.
-- Celebration on achievement of full scores.
-- Responsive design.
+👉 [Netlify Deploy Guide](https://docs.netlify.com/site-deploys/create-deploys/)  
 
+---
 
-## Support
+## 🛠 Installation & Usage
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/kids-math.git
+# Kids Math App
 
-Please [open an issue](https://github.com/arsho/kids_math/issues/new) for support.
+A simple and fun web application for kids to practice basic math operations like **Addition, Subtraction, Multiplication, and Division**. 🎉  
 
-## Contributing
+This app is lightweight, mobile-friendly, and perfect for young learners to improve their math skills interactively.
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/arsho/kids_math/compare/).
+---
 
-### Git methods
-- Create new branch:
-    ```
-    git fetch origin
-    git checkout master
-    git reset --hard origin/master
-    git checkout -b BRANCH_NAME
-    ```    
-- To check local changes:
-    ```
-    git status -s
-    ```
-- Commit changes:
-    ```
-    git add --all
-    git commit -m "Issue:Issue_Number message"
-    git push origin BRANCH_NAME
-    ```    
-- To fetch from upstream repository:
-    ```
-    git fetch origin
-    ```
-- To reset local files to upstream repository `master` branch after fetching the changes:
-    ```
-    git reset --hard origin/master
-    ```
+## ✨ Features
+- Random math quiz generator  
+- Supports addition, subtraction, multiplication, and division  
+- Adjustable number range for operands  
+- Choose number of questions  
+- Auto-check answers with instant feedback  
+- Celebration animation when all answers are correct 🎊  
+- Works on mobile and desktop  
+
+---
+
+## 🚀 Live Demo
+You can easily deploy this app on **Netlify**, **Vercel**, or any static hosting service.  
+
+👉 [Netlify Deploy Guide](https://docs.netlify.com/site-deploys/create-deploys/)  
+
+---
+
+## 🛠 Installation & Usage
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/kids-math.git
